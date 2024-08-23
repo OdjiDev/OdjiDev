@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OdjiDev
 - 👀 I’m interested in  web developpement
-- 🌱 I’m currently learning Python for datasctientic 
+- 🌱 I’m currently developping full Stack Spring angular
 - 💞️ I’m looking to collaborate on Spring 
 - 📫 How to reach me 67@gmail.com
 - 😄 Pronouns: ...
